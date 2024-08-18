@@ -1,0 +1,11 @@
+.tab {
+    -fx-pref-height: 130;
+    -fx-pref-width: 50;
+   -fx-padding: 0;
+    -fx-alignment: center;
+}
+
+.non-editable-cell {
+    -fx-background-color: lightgray !important;
+}
+
